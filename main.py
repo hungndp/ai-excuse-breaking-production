@@ -28,7 +28,7 @@ The chosen line wins on the judge's own order: unmistakable incident
 (a restart to fix one typo), a concrete audience (47,000 users), a
 visible escalation (checkout turned apology note), and the punchline
 landing on the agent itself (the typo is gone — and so is
-production). At 167 characters it uses nearly the full 180-character
+production). At 168 characters it uses nearly the full 180-character
 budget, so the line is judged on its words alone, with nothing padded
 in to fill the budget. No dollar amounts appear anywhere.
 """
